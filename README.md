@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋!  meu nome é Junior sou um dev de uma olha no meu perfil.</h2>
+<h2 align="left">Olá 👋!  meu nome é Júnior sou um dev de uma olha no meu perfil.</h2>
 
 ###
 
